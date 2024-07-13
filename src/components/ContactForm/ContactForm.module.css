@@ -4,7 +4,11 @@
 }
 .titleContact{
     color:#f06233;
-    margin-left: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+    
 }
 .form {
     display: flex;
@@ -30,7 +34,9 @@
     background-color: rgb(240, 98, 51);
     color: white;
     width: fit-content;
+    box-shadow: 5px 5px 15px -6px rgba(0,0,0,0.68)
 }
 input {
     background-color:rgb(255, 249, 189);
+    box-shadow: 5px 5px 15px -6px rgba(0,0,0,0.68)
 }
